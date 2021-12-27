@@ -1,0 +1,10 @@
+key='dfa04c12-c7ff-4d8b-b87d-76c4234edcba'
+app_name="raylaa"
+deviceid="32D98A2F7C067E9A90828B56D63199C28CF12AA146CBB66E013DB517051D33A67B94A001B65BF70437"
+emaill="7b3zcw@wwjmp.com"
+passwordd="91793632"
+custompwd="91793632"
+private=""
+chatlink="http://aminoapps.com/p/h1irekd"
+nickname="Rayla"
+replit="https://SeashellMediumblueRegister.raylachaves.repl.co"
