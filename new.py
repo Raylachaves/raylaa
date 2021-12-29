@@ -1,10 +1,10 @@
 key='dfa04c12-c7ff-4d8b-b87d-76c4234edcba'
-app_name="Gilbert"
+app_name="raylaa"
 deviceid="32976A152D1E2D2E2EAD36C257352959B3D7A603DD7F60A8F5F573FD1C0E865CF10D576CC03AEB826F"
 emaill="oeddzztalu@vddaz.com"
 passwordd="91793632"
 custompwd="91793632"
 private=""
 chatlink="http://aminoapps.com/p/ox4h0b"
-nickname="Botrans"
+nickname="Gazelia"
 replit="https://SeashellMediumblueRegister.raylachaves.repl.co"
